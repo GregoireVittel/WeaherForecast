@@ -1,0 +1,5 @@
+{
+  "name": "Croissy Weather",
+  "description": "Real-time weather forecast for Croissy-sur-Seine using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
